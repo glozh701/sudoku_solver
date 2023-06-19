@@ -7,5 +7,5 @@ Create a Sudoku solver in Go language.
 
 Jingyu Zhang, Lishan Li
 
-### This project is also an assignment submission to course CS 3270 Programming Languages
+*his project is also an assignment submission to course CS 3270 Programming Languages*
 
